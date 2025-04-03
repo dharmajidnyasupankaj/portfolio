@@ -36,6 +36,4 @@
     transform: rotate(360deg);
   }
 }
-@media (max-width: 480px) {
-  /* styles for devices with a maximum width of 480px */
-}
+
